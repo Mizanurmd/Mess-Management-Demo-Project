@@ -8,6 +8,7 @@ import jakarta.persistence.Table;
 import lombok.Data;
 
 @Data
+
 @Entity
 @Table(name="mas_member")
 public class MasMember {
@@ -27,6 +28,9 @@ public class MasMember {
 	private String email;
 	private String about;
 	private String imgeUrl;
+	
+	
+	
 	
 	
 }
