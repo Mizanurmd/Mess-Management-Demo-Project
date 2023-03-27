@@ -9,5 +9,5 @@ Dependencies are :
 spring-boot-starter-data-jpa
 spring-boot-starter-web
 spring-boot-devtools
-ostgresql
+Postgresql
 spring-boot-starter-test
