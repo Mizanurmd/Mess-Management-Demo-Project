@@ -7,8 +7,8 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import lombok.Data;
 
-@Data
 
+@Data
 @Entity
 @Table(name="mas_member")
 public class MasMember {
